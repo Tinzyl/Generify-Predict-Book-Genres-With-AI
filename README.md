@@ -30,11 +30,15 @@ Genreify is a machine learning project that predicts book genres based on their 
 **Data Preprocessing**:
 - Remove unnecessary characters and special symbols.
 - Convert text to lowercase and clean up whitespace.
+  
 **Visualization**:
 - Analyze genre distribution and most frequent words using seaborn.
+  
 **Feature Extraction**:
 - Convert text data into numerical features using TF-IDF or CountVectorizer.
+  
 **Model Training**:
 - Train models like Decision Tree, Random Forest, Naive Bayes, and SVC using the processed data.
+  
 **Evaluation**:
 - Evaluate models using metrics like accuracy, precision, recall, and F1 score.
