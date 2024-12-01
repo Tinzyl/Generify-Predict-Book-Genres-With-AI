@@ -1,4 +1,4 @@
-# Gentrify - Predict-Book-Genres-With-AI
+# Generify - Predict-Book-Genres-With-AI
 Genreify is a machine learning project that predicts book genres based on their summaries. By leveraging text preprocessing and popular classification algorithms, Genreify provides accurate predictions and insights into the literary world.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Success-green) ![Natural Language Processing](https://img.shields.io/badge/NLP-Powered-orange)
